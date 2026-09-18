@@ -1,0 +1,8 @@
+{
+  "name": "MotionCanvas",
+  "description": "A 2D animation and drawing studio with raster and vector brush engines, multi-layer timeline, onion skinning, bezier node editing, rigging, perspective guides, and GIF/PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
